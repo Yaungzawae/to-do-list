@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.toDoList{
+    margin: 1rem auto;
+}
+
+ .checkbox{
+    margin: auto 0;
+}
+
+.toDoListAll{
+    padding: 0 10%;
+}
+
+h3{
+    text-align: left;
+}
+
+row{
+    margin: 0.5rem auto;
+}
+
+
